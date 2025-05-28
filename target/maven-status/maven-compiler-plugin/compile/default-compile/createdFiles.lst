@@ -1,7 +1,11 @@
 Triangle.class
+VideoPlayer.class
 Rectangle.class
+MusicPlayer.class
 Transformable.class
 Circle.class
+Player.class
 PracticeProblem.class
 Notes.class
 Shape.class
+RadioPlayer.class
